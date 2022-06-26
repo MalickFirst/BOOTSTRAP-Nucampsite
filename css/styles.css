@@ -38,3 +38,31 @@ header h2 {
   background-color: rgba(0, 0, 0, 0.5);
 }
 
+.row-content {
+  padding: 50px 0;
+  border-bottom: 1px ridge;
+  min-height: 200px;
+}
+
+#carouselButton {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index: 100;
+}
+
+h2 {
+  color: #3046C5;
+}
+
+#reserveModal .modal-header {
+  background-color: #17A2B8;
+  color: white;
+}
+
+#loginModal .modal-header {
+  background-color: #901CAD;
+  color: white;
+}
+
+/*# sourceMappingURL=styles.css.map */
